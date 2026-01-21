@@ -1,0 +1,15 @@
+node_modules
+.gatorconfig.json
+.env
+.env.*
+
+
+*.log
+
+dist/
+build/
+.cache/
+
+.DS_Store
+Thumbs.db
+.vscode/
